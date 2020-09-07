@@ -16,9 +16,9 @@
 ## 工夫したポイント
  商品を、一件だけではなく検索上位３件まで取得し、商品を比較できるようにした点
 ## 使用技術
- Ruby 2.5.1
- Ruby on rails 5.2.0
- LINEAPI
- 楽天API
+ Ruby 2.5.1<br>
+ Ruby on rails 5.2.0<br>
+ LINEAPI<br>
+ 楽天API<br>
 ## 課題
  商品を横並びではなく、縦に表示させたい
