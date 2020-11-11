@@ -48,6 +48,7 @@ class LinebotsController < ApplicationController
     # 取得したデータを使いやすいように配列に格納し直す
     items = res.map{|item| item}
     make_reply_content(items)
+    
   end
 
   def make_reply_content(items)
