@@ -24,7 +24,6 @@ class LinebotsController < ApplicationController
         end
       end
     end
-    
     head :ok
   end
 
